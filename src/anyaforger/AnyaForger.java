@@ -26,7 +26,7 @@ public class AnyaForger extends JApplet {
     public static void main(String[] args) {
         // TODO code application logic here
         JFrame frame = new JFrame();
-        frame.setTitle("Menggambar Pemandangan");
+        frame.setTitle("Anya Forger");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JApplet applet = new AnyaForger();
         applet.init();

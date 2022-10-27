@@ -5,6 +5,8 @@ Membuat desain panel 2D Anya Forger menggunakan paintComponent di Netbeans denga
 
 
 
+
+
 ![image](https://user-images.githubusercontent.com/98678219/198233069-c27d0453-5fb3-421c-9ac7-8a451cdff554.png)
 
 source: https://id.pinterest.com/pin/1477812370457084/
